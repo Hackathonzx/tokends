@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.4",
+    "solana": "^2.2.1"
+  },
+  "name": "tokend",
+  "description": "Solana, LFG",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackathonzx/tokend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackathonzx/tokend/issues"
+  },
+  "homepage": "https://github.com/Hackathonzx/tokend#readme"
+}
